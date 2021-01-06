@@ -4,6 +4,7 @@ GeoJSON from https://github.com/southkorea/southkorea-maps
 
 <a href="/viz/covid-19_spread.mp4">SK cross province covid spread mp4 visualization</a>
 
+![age_gender_distribution](/viz/age_gender_distribution.png "age_gender_distribution")
 ![cross-province-spread](/viz/cross-province-spread.png "cross-province-spread")
 ![policy-cases](/viz/policy-cases.png "policy-cases")
 ![age-covid-death](/viz/age-covid-death.png "age-covid-death")
